@@ -1,0 +1,18 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text{
+    color: black;
+}
+
+h2{
+    color: #3E426D;
+    font-weight: bold;
+    line-height: 100px;
+    text-align: center;
+}
+
+span{
+    color: #FF3333;
+}
